@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Aprobo_Reprobo\Aprobo_Reprobo\bin\Debug\net8.0\Aprobo_Reprobo.exe
+C:\Users\PC\source\repos\Aprobo_Reprobo\Aprobo_Reprobo\bin\Debug\net8.0\Aprobo_Reprobo.deps.json
+C:\Users\PC\source\repos\Aprobo_Reprobo\Aprobo_Reprobo\bin\Debug\net8.0\Aprobo_Reprobo.runtimeconfig.json
+C:\Users\PC\source\repos\Aprobo_Reprobo\Aprobo_Reprobo\bin\Debug\net8.0\Aprobo_Reprobo.dll
+C:\Users\PC\source\repos\Aprobo_Reprobo\Aprobo_Reprobo\bin\Debug\net8.0\Aprobo_Reprobo.pdb
+C:\Users\PC\source\repos\Aprobo_Reprobo\Aprobo_Reprobo\obj\Debug\net8.0\Aprobo_Reprobo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Aprobo_Reprobo\Aprobo_Reprobo\obj\Debug\net8.0\Aprobo_Reprobo.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Aprobo_Reprobo\Aprobo_Reprobo\obj\Debug\net8.0\Aprobo_Reprobo.AssemblyInfo.cs
+C:\Users\PC\source\repos\Aprobo_Reprobo\Aprobo_Reprobo\obj\Debug\net8.0\Aprobo_Reprobo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Aprobo_Reprobo\Aprobo_Reprobo\obj\Debug\net8.0\Aprobo_Reprobo.dll
+C:\Users\PC\source\repos\Aprobo_Reprobo\Aprobo_Reprobo\obj\Debug\net8.0\refint\Aprobo_Reprobo.dll
+C:\Users\PC\source\repos\Aprobo_Reprobo\Aprobo_Reprobo\obj\Debug\net8.0\Aprobo_Reprobo.pdb
+C:\Users\PC\source\repos\Aprobo_Reprobo\Aprobo_Reprobo\obj\Debug\net8.0\Aprobo_Reprobo.genruntimeconfig.cache
+C:\Users\PC\source\repos\Aprobo_Reprobo\Aprobo_Reprobo\obj\Debug\net8.0\ref\Aprobo_Reprobo.dll
